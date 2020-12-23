@@ -36,7 +36,11 @@ nav .navbar-nav li a:hover{
 li {
     list-style-type: none;
 }
-
+.sidebar{
+    background-color: #8f95a12a;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
 /*
 Comments
 #858b97 Grey
