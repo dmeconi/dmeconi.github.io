@@ -33,6 +33,10 @@ nav .navbar-nav li a:hover{
 {
     width: 100%;
 }
+li {
+    list-style-type: none;
+}
+
 /*
 Comments
 #858b97 Grey
