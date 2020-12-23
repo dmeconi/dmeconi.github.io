@@ -29,12 +29,12 @@ nav .navbar-nav li a{
 nav .navbar-nav li a:hover{
     color: white !important;
 }
-img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 40%;
-  }
+.bg
+{
+    position: absolute;
+    width: 100%;
+    z-index: 0;
+}
 /*
 Comments
 #858b97 Grey
